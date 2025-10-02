@@ -10,9 +10,9 @@ class Operaciones:
         return "Mi nombre es " + self.alejandroMontes
 
 
-    def operacionAsignada(self):
+    #def operacionAsignada(self):
         #Realizar la operacion asignada
-    ''' 
+    
     def esImpar(self, numero):
         
         if numero % 2 != 0:
